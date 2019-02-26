@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- General -->
+    <string name="app_name">AppBarTopDefault</string>
+
+    <!-- Menu Toolbar -->
+    <string name="menu_main_search">Search</string>
+    <string name="menu_main_favorite">Favorite</string>
+    <string name="menu_main_setting">Setting</string>
+
+</resources>
